@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Mobile banking</string>
+    <string name="connection">Connection</string>
+    <string name="Send">Send</string>
+    <string name="login">Login</string>
+    <string name="password">Password</string>
+    <string name="connect">Connect</string>
+    <string name="balance">Balance</string>
+    <string name="bill_payment">Bill Payment</string>
+    <string name="transfer">Transfer</string><!--Menu-->
+    <string name="history_transaction">Transactions</string><!--Menu-->
+    <string name="help">Help</string><!--Menu-->
+    <string name="qr_code">QR Code</string><!--Menu-->
+    <string name="phone_number">Phone Number</string><!--Text-->
+    <string name="amount">Amount</string><!--Text-->
+    <string name="pin">Pin</string><!--Text-->
+    <string name="bill_reference">bill reference</string>
+    <string name="title_activity_home">HomeActivity</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="error_field">Field required</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string><!--numero de la facture-->
+</resources>
